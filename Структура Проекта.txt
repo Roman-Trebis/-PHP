@@ -1,0 +1,32 @@
+Структура Проекта
+
+/Проект/
+├── css/
+│   └── main.css
+├── img/
+│   ├── avatar/
+│   ├── bg/  
+│   ├── icons/
+│   ├── photos/
+│   ├── popular/
+│   └── post/
+│   ├── favicon.ico
+│   ├── img.png
+│   ├── sign.png
+├── templates/
+│   ├── widgets/
+│   │   ├── author.tpl
+│   │   ├── categories.tpl  
+│   │   ├── photo.tpl
+│   │   └── popular-posts.tpl
+│   ├── footer.tpl
+│   ├── head.tpl
+│   ├── header.tpl
+│   ├── nav.tpl
+│   └── sidebar.tpl
+├── about.php
+├── config.php 
+├── contact.php
+├── data.php
+├── index.php
+└── post.php
